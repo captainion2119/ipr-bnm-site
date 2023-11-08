@@ -34,7 +34,7 @@ function nextImage() {
 }
 
 function startSlideshow() {
-  intervalId = setInterval(nextImage, 3000);
+  intervalId = setInterval(nextImage, 5000);
 }
 
 function stopSlideshow() {
@@ -59,7 +59,7 @@ startSlideshow();
 
 //time-clock
 // Set the countdown date (replace with your desired end date)
-const countdownDate = new Date("2023-09-11T00:00:00Z");
+const countdownDate = new Date("2024-01-18T00:00:00Z");
 
 // Update the countdown every second
 setInterval(updateCountdown, 1000);
