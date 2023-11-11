@@ -374,7 +374,7 @@ footer {
 }
 .size {
   position: relative;
-  height: 210vh !important;
+  height: 100% !important;
 }
 .footer-distributed {
   background: #000;
