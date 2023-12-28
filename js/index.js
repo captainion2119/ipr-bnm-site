@@ -59,7 +59,7 @@ startSlideshow();
 
 //time-clock
 // Set the countdown date (replace with your desired end date)
-const countdownDate = new Date("2024-01-18T00:00:00Z");
+const countdownDate = new Date("2024-03-14T00:00:00Z");
 
 // Update the countdown every second
 setInterval(updateCountdown, 1000);
